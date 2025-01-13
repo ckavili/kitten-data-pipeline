@@ -31,3 +31,7 @@ Welcome to the **Cat Image Transformer** repository! This project is designed to
 
 5. **Stop and Restart Your Workbench**  
    - Don’t forget to stop and restart your workbench to ensure everything is saved!
+
+6. **Need More Cats!**
+   
+   It’s a great start, but for a model to really learn, we need more adorable cat images. Add a few more pictures to your `images/` folder and run the transformation script again. The more cats, the better! 🐾
